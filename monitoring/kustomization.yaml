@@ -4,4 +4,4 @@ namePrefix: kustomize-monitoring
 namespace: monitoring
 resources:
   - "deployment.yaml"
-
+  - "namespace.yaml"
